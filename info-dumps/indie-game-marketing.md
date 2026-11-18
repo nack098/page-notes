@@ -364,31 +364,17 @@ For small development studios, the objective is not to reproduce the marketing o
 ## References
 
 [1] F. Parker, J. R. Whitson, and B. Simon, "Megabooth: The cultural intermediation of indie games," *New Media & Society*, vol. 20, no. 5, pp. 1953–1972, 2018. https://doi.org/10.1177/1461444817711403
-
 [2] P. Crogan, "Indie Dreams: Video Games, Creative Economy, and the Hyperindustrial Epoch," *Games and Culture*, vol. 13, no. 7, pp. 671–689, 2018. https://doi.org/10.1177/1555412018756708
-
 [3] Digital Economy Promotion Agency (depa), *Digital Content 2024: Game Industry*, Ministry of Digital Economy and Society, Thailand, 2025, pp. 11–12. https://www.depa.or.th/storage/app/media/file/04-Digital%20Content%202024.pdf
-
 [4] Government Public Relations Department, "The Thai gaming industry has soared to become the second leader in game development in Southeast Asia," *THAILAND.GO.TH*, Oct. 9, 2024. https://thailand.go.th/issue-focus-detail/the-thai-gaming-industry-has-soared-to-become-the-second-leader-in-game-development-in-southeast-asia
-
 [5] Rocket Media Lab, "สำรวจเกมจากผู้พัฒนาชาวไทยที่วางขายบน Steam แพลตฟอร์มขายเกมที่มีขนาดใหญ่ที่สุดในโลก," *Thai Civil Rights and Investigative Journalism (TCIJ)*, Oct. 28, 2026. https://www.tcijthai.com/news/2026/28/scoop/15389
-
 [6] S. Heidenreich, F. Handrich, and T. Kraemer, "Flawless victory! Investigating search and experience qualities as antecedent predictors of video game success," *Electronic Markets*, vol. 33, Art. no. 20, 2023. https://doi.org/10.1007/s12525-023-00647-2
-
 [7] M. S. K. Wan and A. F. Sam, "From praise to polarization: the role of controversial reviews in shaping consumer behavior in the PC game market," *Journal of Marketing Analytics*, vol. 14, pp. 295–307, 2026. https://doi.org/10.1057/s41270-024-00359-2
-
 [8] V. Landsman and S. Stremersch, "Multihoming in two-sided markets: An empirical inquiry in the video game console industry," *Journal of Marketing*, vol. 75, no. 6, pp. 39–54, 2011. https://doi.org/10.1509/jm.09.0199
-
 [9] U. N. Nguyen, *Social Media Marketing Plan for an Indie Game: Case Brakesoft Ltd., The Forgotten Guardians*, Bachelor's thesis, LAB University of Applied Sciences, 2023. https://www.theseus.fi/bitstream/10024/801497/2/Nguyen_Uyen%20Nhi.pdf
-
 [10] M. Lega, "No-Budget DIY Marketing for Indie Games," Game Developers Conference (GDC), 2023. [Presentation slides]. https://media.gdcvault.com/gdc2023/Slides/No-BudgetDIYMarketing_Lega_Michelle.pdf
-
 [11] Xsolla Partner Network, *Marketing for Indie Video Game Developers: Getting Started*, n.d. https://assets-global.website-files.com/5eba45390f6b76b68927ef7c/61015052da580d7723966097_Marketing%20for%20Indie%20Video%20Game%20Developers-%20Getting%20Started.pdf
-
 [12] Valve Corporation, "Features and Tools, Marketing," *Steamworks Documentation*. [Online]. Available: https://partner.steamgames.com/doc/marketing/tools. [Accessed: Nov. 17, 2026].
-
 [13] Valve Corporation, "Visibility on Steam," *Steamworks Documentation*. [Online]. Available: https://partner.steamgames.com/doc/marketing/visibility. [Accessed: Nov. 17, 2026].
-
 [14] Valve Corporation, "Wishlists," *Steamworks Documentation*. [Online]. Available: https://partner.steamgames.com/doc/marketing/wishlist. [Accessed: Nov. 17, 2026].
-
 [15] Valve Corporation, "UTM Analytics," *Steamworks Documentation*. [Online]. Available: https://partner.steamgames.com/doc/marketing/utm_analytics. [Accessed: Nov. 17, 2026].
